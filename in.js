@@ -1,4 +1,5 @@
-/* @WH173-5P1D3R
+/* Copyright (C) 2022.
+@WH173-5P1D3R
 */
 
 const axios = require('axios');
